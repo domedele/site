@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Chi sono
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 img_alt: lorem-ipsum
