@@ -1,7 +1,7 @@
 ---
 title: Chi sono
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: ''
 img_alt: lorem-ipsum
 layout: page
 ---
