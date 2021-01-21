@@ -5,8 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Impronte
-    content: |
-      Tutti lasciamo delle impronte e dovremmo preoccuparcene.
+    content: >
+      Tutti lasciamo delle impronte e dovremmo preoccuparcene. Qui ne raccolgo
+      qualcuna.
   - section_id: about
     type: section_content
     title: Chi sono
