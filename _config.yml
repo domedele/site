@@ -11,7 +11,7 @@ header:
   title: Nico De Leonardis
   tagline: Ecologista
   profile_img_alt: Author avatar
-  background: dark
+  background: light
   has_nav: true
   nav_links:
     - label: Home
