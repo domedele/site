@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Impronte
     content: |
-      Tutti lasciamo delle impronte e dovremmo preoccuparcene
+      Tutti lasciamo delle impronte e dovremmo preoccuparcene.
   - section_id: about
     type: section_content
     title: About
