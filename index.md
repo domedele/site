@@ -8,7 +8,7 @@ sections:
     content: >
       Tutti lasciamo delle impronte e dovremmo preoccuparcene. Qui ne raccolgo
       qualcuna.
-  - section_id: about
+  - section_id: chi-sono
     type: section_content
     title: Chi sono
     content: >
