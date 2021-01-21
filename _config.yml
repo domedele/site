@@ -24,7 +24,7 @@ header:
       url: /style-guide/
       style: link
     - label: Chi sono
-      url: /about/
+      url: /chi-sono/
       style: link
       new_window: true
     - label: Contact
