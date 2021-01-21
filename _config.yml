@@ -26,6 +26,7 @@ header:
     - label: About
       url: /about/
       style: link
+      new_window: true
     - label: Contact
       url: /contact/
       style: link
