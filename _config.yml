@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: Personal blogging theme for Stackbit
+description: 'Impronte - '
 layout_style: simple
 palette: orange
 header:
