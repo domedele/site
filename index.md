@@ -30,11 +30,28 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Sono nato e cresciuto tra la Basilicata e il Salento ma vivo da trent'anni
+      a Torino.
+
+
+      Ho incontrato l'ecologia per caso tra un professore di filosofia al liceo
+      ed un servizio civile in Legambiente.
+
+
+      Ne ho fatto una ragione di vita professionale da vent'anni.
+
+
+      Mi occupo di mobilità sostenibile da dieci anni in un'importante
+      istituzione pubblica.
+
+
+      Smanetto da quando mi hanno regalato lo ZX81 e ho una passione insana per
+      la scrittura e la politica.
+
+
+      Qui trovi quello che faccio e scrivo (spesso anche sotto lo pseudonimo
+      Elisee Reclus)
     actions:
       - label: Contact Me
         url: /contact
