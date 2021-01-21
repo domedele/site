@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-description: 'Impronte - '
+description: Nico De Leonardis - Impronte
 layout_style: simple
 palette: orange
 header:
