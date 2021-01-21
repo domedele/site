@@ -12,7 +12,7 @@ header:
   tagline: Ecologista
   profile_img_alt: Author avatar
   background: light
-  has_nav: true
+  has_nav: false
   nav_links:
     - label: Home
       url: /
