@@ -56,7 +56,7 @@ header:
       style: icon
       icon_class: fa-dev
       new_window: true
-  profile_img: images/avatar.jpg
+  profile_img: images/fabulous-kale.jpg
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
