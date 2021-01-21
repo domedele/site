@@ -5,9 +5,14 @@ excerpt: ''
 img_alt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+Sono nato e cresciuto tra la Basilicata e il Salento ma vivo da trent'anni a Torino.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ho incontrato l'ecologia per caso tra un professore di filosofia al liceo ed un servizio civile in Legambiente.
 
-- Lorem ipsum
-- dolor sit amet
+Ne ho fatto una ragione di vita professionale da vent'anni.
+
+Mi occupo di mobilità sostenibile da dieci anni in un'importante istituzione pubblica.
+
+Smanetto da quando mi hanno regalato lo ZX81 e ho una passione insana per la scrittura e la politica.
+
+Qui trovi quello che faccio e scrivo (spesso anche sotto lo pseudonimo Elisee Reclus)
