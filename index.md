@@ -9,7 +9,7 @@ sections:
       Tutti lasciamo delle impronte e dovremmo preoccuparcene.
   - section_id: about
     type: section_content
-    title: About
+    title: Chi sono
     content: >
       Sono nato e cresciuto tra la Basilicata e il Salento ma vivo da trent'anni
       a Torino.
